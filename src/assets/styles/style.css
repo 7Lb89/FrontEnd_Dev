@@ -1,0 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.navbar {
+  transition: top 0.3s ease;
+}
